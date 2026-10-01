@@ -1,0 +1,12 @@
+{
+  "_note": "배경 그림이 아직 없는 장면의 임시 대체(프론트, Claude). 그림이 생기면 manifest의 키가 우선한다.",
+  "homura_room_dawn": "homura_room_night_off",
+  "kaname_kitchen_dawn": "kaname_kitchen_night_off",
+  "homura_room_rain": "homura_room_day",
+  "montage_kaname_entry_room_rain": "kaname_entry_day",
+  "montage_miki_entry_living_evening": "miki_living_evening",
+  "montage_visits_day": "kaname_living_day",
+  "residential_hill_day": "school_route_day",
+  "outskirts_passage_evening": "under_bridge_evening",
+  "reclaimed_site_evening": "under_bridge_evening"
+}
