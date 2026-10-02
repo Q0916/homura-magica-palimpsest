@@ -274,6 +274,32 @@
       "Z-teacher-04": "char/kazuko/Z-teacher-04.webp",
       "Z-teacher-03": "char/kazuko/Z-teacher-03.webp",
       "default": "char/kazuko/Z-teacher-01.webp"
+    },
+    "준코": {
+      "J-home-01": "char/junko/J-home-01.webp",
+      "J-home-02": "char/junko/J-home-02.webp",
+      "J-home-03": "char/junko/J-home-03.webp",
+      "J-home-04": "char/junko/J-home-04.webp",
+      "J-home-05": "char/junko/J-home-05.webp",
+      "J-home-06": "char/junko/J-home-06.webp",
+      "J-winter-05": "char/junko/J-winter-05.webp",
+      "J-winter-06": "char/junko/J-winter-06.webp",
+      "J-winter-07": "char/junko/J-winter-07.webp",
+      "default": "char/junko/J-home-02.webp"
+    },
+    "토모히사": {
+      "T-home-01": "char/tomohisa/T-home-01.webp",
+      "T-home-02": "char/tomohisa/T-home-02.webp",
+      "T-home-03": "char/tomohisa/T-home-03.webp",
+      "T-winter-01": "char/tomohisa/T-winter-01.webp",
+      "T-home-01-plain": "char/tomohisa/T-home-01-plain.webp",
+      "default": "char/tomohisa/T-home-01.webp"
+    },
+    "타츠야": {
+      "Ta-home-01": "char/tatsuya/Ta-home-01.webp",
+      "Ta-home-02": "char/tatsuya/Ta-home-02.webp",
+      "Ta-home-03": "char/tatsuya/Ta-home-03.webp",
+      "default": "char/tatsuya/Ta-home-02.webp"
     }
   },
   "title": null,
@@ -550,6 +576,32 @@
       "Z-teacher-04": 0.000625,
       "Z-teacher-03": 0.000625,
       "default": 0.000625
+    },
+    "준코": {
+      "J-home-01": 0,
+      "J-home-02": 0,
+      "J-home-03": 0,
+      "J-home-04": 0,
+      "J-home-05": 0,
+      "J-home-06": 0,
+      "J-winter-05": 0,
+      "J-winter-06": 0,
+      "J-winter-07": 0,
+      "default": 0
+    },
+    "토모히사": {
+      "T-home-01": 0,
+      "T-home-02": 0,
+      "T-home-03": 0,
+      "T-winter-01": 0,
+      "T-home-01-plain": 0,
+      "default": 0
+    },
+    "타츠야": {
+      "Ta-home-01": 0,
+      "Ta-home-02": 0,
+      "Ta-home-03": 0,
+      "default": 0
     }
   },
   "wraith": {
