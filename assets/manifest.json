@@ -620,5 +620,977 @@
     "smoke_cluster_c": "wraith/smoke_cluster_c.webp",
     "smoke_sparse": "wraith/smoke_sparse.webp",
     "smoke_spread": "wraith/smoke_spread.webp"
+  },
+  "charFacing": {
+    "사야카": {
+      "S-K1": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "S-K2": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "S-K3": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "S-K4": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-K5": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-K6": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "S-K7": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "S-K8b": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-K10": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-K8a": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-K11": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-K9": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "S-school-01": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-03": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-06": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-04": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-02": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-07": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-08": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-09": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-05": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-home-01": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-home-03": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-magic-01": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "S-magic-02": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-magic-04": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "S-winter-03": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-04": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-05": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-01": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-magic-03": {
+        "gaze": "오른쪽",
+        "canFlip": false
+      },
+      "S-home-02": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "default": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-home-04": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-magic-05": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "S-school-10": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-11": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-12": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-13": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-14": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-15": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-16": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-17": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-home-14": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-06": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-07": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-08": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-09": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-10": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-11": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-12": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-13": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-14": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-15": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-16": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-17": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-casual-01": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-casual-02": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-casual-03": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-casual-04": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-casual-05": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-casual-06": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-casual-07": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-casual-08": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-casual-09": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-magic-06": {
+        "gaze": "오른쪽",
+        "canFlip": false
+      },
+      "S-home-15": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-home-16": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-home-17": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-18": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-winter-18": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-19": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-magic-07": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "S-school-20": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-school-21": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-home-18": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-coat-01": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-coat-02": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-coat-03": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-coat-04": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-coat-05": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      }
+    },
+    "쿄코": {
+      "K-K1": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-K2": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-K3": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-K4": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "K-K5": {
+        "gaze": "오른쪽",
+        "canFlip": false
+      },
+      "K-K6": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-K7": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-K8": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-school-01": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-school-02": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-school-03": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-school-04": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-school-05": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-school-06": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-school-07": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-home-01": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-home-02": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-magic-01": {
+        "gaze": "오른쪽",
+        "canFlip": false
+      },
+      "K-winter-01": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-winter-02": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-winter-06": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-magic-02": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "K-magic-03": {
+        "gaze": "오른쪽",
+        "canFlip": false
+      },
+      "default": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-home-03": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-home-04": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-school-08": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-winter-07": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-winter-08": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-winter-09": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-winter-10": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-winter-11": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-winter-12": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-casual-01": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-casual-02": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-casual-03": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-casual-04": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-casual-05": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-school-09": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-home-05": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-home-06": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-school-10": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-coat-01": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-coat-02": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-coat-03": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-coat-04": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-coat-05": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-coat-06": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "K-coat-07": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-coat-08": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-coat-09": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "K-coat-10": {
+        "gaze": "정면",
+        "canFlip": true
+      }
+    },
+    "마미": {
+      "M-K1": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-K2": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-K3": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "M-K4": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-K6": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-K5": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-K7": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-K8": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-K9": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-K10": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-school-01": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "M-school-02": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-school-03": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-school-04": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "M-school-05": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "M-school-06": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-home-01": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-magic-01": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "M-home-03": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-winter-03": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-winter-01": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "M-home-02": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-magic-02": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-magic-03": {
+        "gaze": "오른쪽",
+        "canFlip": false
+      },
+      "default": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "M-home-04": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-home-05": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-school-07": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "M-home-06": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-home-07": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-school-08": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "M-school-09": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-school-10": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "M-home-08": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-home-09": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-home-10": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-magic-04": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-coat-01": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-outing-01": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-outing-02": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "M-outing-03": {
+        "gaze": "정면",
+        "canFlip": false
+      },
+      "M-outing-04": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "M-outing-05": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "M-outing-06": {
+        "gaze": "정면",
+        "canFlip": false
+      }
+    },
+    "나기사": {
+      "N-K1": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-K3": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-K2": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-K6": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-K5": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-K7": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "N-K4": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-K8": {
+        "gaze": "왼쪽",
+        "canFlip": true
+      },
+      "N-rising-01": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-rising-02": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-rising-03": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-rising-04": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-rising-05": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-rising-06": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-rising-07": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-winter-02": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-winter-01": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-winter-03": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-winter-04": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-magic-02": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-magic-01": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "default": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-winter-05": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-winter-06": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-winter-07": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-winter-08": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-winter-09": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "N-rising-09": {
+        "gaze": "왼쪽",
+        "canFlip": true
+      }
+    },
+    "큐베": {
+      "앉음": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "고개갸웃": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "꼬리말기": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "걷기": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "걷기반전": {
+        "gaze": "오른쪽",
+        "canFlip": true
+      },
+      "옆모습": {
+        "gaze": "왼쪽",
+        "canFlip": true
+      },
+      "위를올려다보기": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "default": {
+        "gaze": "정면",
+        "canFlip": true
+      }
+    },
+    "카즈코": {
+      "Z-teacher-01": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "Z-teacher-02": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "Z-teacher-04": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "Z-teacher-03": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "default": {
+        "gaze": "정면",
+        "canFlip": true
+      }
+    },
+    "준코": {
+      "J-home-01": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "J-home-02": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "J-home-03": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "J-home-04": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "J-home-05": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "J-home-06": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "J-winter-05": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "J-winter-06": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "J-winter-07": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "default": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      }
+    },
+    "토모히사": {
+      "T-home-01": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "T-home-02": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "T-home-03": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "T-winter-01": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "T-home-01-plain": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "default": {
+        "gaze": "정면",
+        "canFlip": true
+      }
+    },
+    "타츠야": {
+      "Ta-home-01": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "Ta-home-02": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "Ta-home-03": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "default": {
+        "gaze": "정면",
+        "canFlip": true
+      }
+    }
   }
 }
