@@ -551,5 +551,22 @@
       "Z-teacher-03": 0.000625,
       "default": 0.000625
     }
+  },
+  "wraith": {
+    "body_asymmetric": "wraith/body_asymmetric.webp",
+    "body_hunched": "wraith/body_hunched.webp",
+    "body_low": "wraith/body_low.webp",
+    "body_reaching": "wraith/body_reaching.webp",
+    "body_twisted": "wraith/body_twisted.webp",
+    "head_front_closed": "wraith/head_front_closed.webp",
+    "head_front_open": "wraith/head_front_open.webp",
+    "head_threequarter_closed": "wraith/head_threequarter_closed.webp",
+    "head_threequarter_open": "wraith/head_threequarter_open.webp",
+    "head_tilted": "wraith/head_tilted.webp",
+    "smoke_cluster_a": "wraith/smoke_cluster_a.webp",
+    "smoke_cluster_b": "wraith/smoke_cluster_b.webp",
+    "smoke_cluster_c": "wraith/smoke_cluster_c.webp",
+    "smoke_sparse": "wraith/smoke_sparse.webp",
+    "smoke_spread": "wraith/smoke_spread.webp"
   }
 }
