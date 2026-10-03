@@ -1592,5 +1592,22 @@
         "canFlip": true
       }
     }
+  },
+  "wraithSmall": {
+    "body_asymmetric": "wraith/sm/body_asymmetric.webp",
+    "body_hunched": "wraith/sm/body_hunched.webp",
+    "body_low": "wraith/sm/body_low.webp",
+    "body_reaching": "wraith/sm/body_reaching.webp",
+    "body_twisted": "wraith/sm/body_twisted.webp",
+    "head_front_closed": "wraith/sm/head_front_closed.webp",
+    "head_front_open": "wraith/sm/head_front_open.webp",
+    "head_threequarter_closed": "wraith/sm/head_threequarter_closed.webp",
+    "head_threequarter_open": "wraith/sm/head_threequarter_open.webp",
+    "head_tilted": "wraith/sm/head_tilted.webp",
+    "smoke_cluster_a": "wraith/sm/smoke_cluster_a.webp",
+    "smoke_cluster_b": "wraith/sm/smoke_cluster_b.webp",
+    "smoke_cluster_c": "wraith/sm/smoke_cluster_c.webp",
+    "smoke_sparse": "wraith/sm/smoke_sparse.webp",
+    "smoke_spread": "wraith/sm/smoke_spread.webp"
   }
 }
