@@ -126,7 +126,14 @@
       "S-coat-02": "char/sayaka/S-coat-02.webp",
       "S-coat-03": "char/sayaka/S-coat-03.webp",
       "S-coat-04": "char/sayaka/S-coat-04.webp",
-      "S-coat-05": "char/sayaka/S-coat-05.webp"
+      "S-coat-05": "char/sayaka/S-coat-05.webp",
+      "S-magic-10": "char/sayaka/S-magic-10.webp",
+      "S-magic-08": "char/sayaka/S-magic-08.webp",
+      "S-magic-09": "char/sayaka/S-magic-09.webp",
+      "S-magic-02-healing-wide": "char/sayaka/S-magic-02.webp",
+      "S-magic-02-healing-close": "char/sayaka/S-magic-02.webp",
+      "S-magic-08-healing-wide": "char/sayaka/S-magic-08.webp",
+      "S-magic-10-healing-wide": "char/sayaka/S-magic-10.webp"
     },
     "쿄코": {
       "K-K1": "char/kyoko/K-K1.webp",
@@ -295,7 +302,8 @@
       "T-winter-01": "char/tomohisa/T-winter-01.webp",
       "T-home-01-plain": "char/tomohisa/T-home-01-plain.webp",
       "default": "char/tomohisa/T-home-01.webp",
-      "T-winter-02": "char/tomohisa/T-winter-02.webp"
+      "T-winter-02": "char/tomohisa/T-winter-02.webp",
+      "T-winter-03": "char/tomohisa/T-winter-03.webp"
     },
     "타츠야": {
       "Ta-home-01": "char/tatsuya/Ta-home-01.webp",
@@ -443,7 +451,14 @@
       "S-coat-02": 0.000625,
       "S-coat-03": 0.000625,
       "S-coat-04": 0.000625,
-      "S-coat-05": 0.000625
+      "S-coat-05": 0.000625,
+      "S-magic-02-healing-wide": 0.000625,
+      "S-magic-02-healing-close": 0.000625,
+      "S-magic-08-healing-wide": 0,
+      "S-magic-10-healing-wide": 0,
+      "S-magic-10": 0,
+      "S-magic-09": 0,
+      "S-magic-08": 0
     },
     "쿄코": {
       "K-K1": 0.000625,
@@ -599,7 +614,8 @@
       "T-winter-01": 0,
       "T-home-01-plain": 0,
       "default": 0,
-      "T-winter-02": 0
+      "T-winter-02": 0,
+      "T-winter-03": 0
     },
     "타츠야": {
       "Ta-home-01": 0,
@@ -948,6 +964,34 @@
         "canFlip": false
       },
       "S-coat-05": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-magic-02-healing-wide": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-magic-02-healing-close": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-magic-08-healing-wide": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-magic-10-healing-wide": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-magic-10": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-magic-09": {
+        "gaze": "왼쪽",
+        "canFlip": false
+      },
+      "S-magic-08": {
         "gaze": "왼쪽",
         "canFlip": false
       }
@@ -1584,6 +1628,10 @@
       "T-winter-02": {
         "gaze": "정면",
         "canFlip": true
+      },
+      "T-winter-03": {
+        "gaze": "정면",
+        "canFlip": true
       }
     },
     "타츠야": {
@@ -1621,5 +1669,16 @@
     "smoke_cluster_c": "wraith/sm/smoke_cluster_c.webp",
     "smoke_sparse": "wraith/sm/smoke_sparse.webp",
     "smoke_spread": "wraith/sm/smoke_spread.webp"
+  },
+  "charLift": {
+    "사야카": {
+      "S-magic-02-healing-wide": -320,
+      "S-magic-02-healing-close": 0,
+      "S-magic-08-healing-wide": -320,
+      "S-magic-10-healing-wide": -320,
+      "S-magic-10": 0,
+      "S-magic-09": 0,
+      "S-magic-08": 0
+    }
   }
 }

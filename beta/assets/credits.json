@@ -2173,9 +2173,9 @@
     {
       "kind": "generated-art",
       "key": "C112-kaname-family",
-      "title": "카나메 가족 스탠딩 17장",
-      "credit": "카나메 가족 — 준코 9장·토모히사 5장·타츠야 3장, 총 17장. 공식 설정자료·본편 장면을 참고하고 생성형 AI를 활용해 제작했습니다. 사용자가 선택한 그림을 정규화해 설치했습니다.",
-      "creditText": "카나메 가족 — 준코 9장·토모히사 5장·타츠야 3장, 총 17장. 공식 설정자료·본편 장면을 참고하고 생성형 AI를 활용해 제작했습니다. 사용자가 선택한 그림을 정규화해 설치했습니다.",
+      "title": "카나메 가족 스탠딩 20장",
+      "credit": "카나메 가족 — 준코 9장·토모히사 8장·타츠야 3장, 총 20장. 공식 설정자료·본편 장면을 참고하고 생성형 AI를 활용해 제작했습니다. 사용자가 선택한 그림을 정규화해 설치했습니다.",
+      "creditText": "카나메 가족 — 준코 9장·토모히사 8장·타츠야 3장, 총 20장. 공식 설정자료·본편 장면을 참고하고 생성형 AI를 활용해 제작했습니다. 사용자가 선택한 그림을 정규화해 설치했습니다.",
       "provider": "생성형 AI",
       "files": [
         "char/junko/J-home-01.webp",
@@ -2184,6 +2184,7 @@
         "char/junko/J-home-04.webp",
         "char/junko/J-home-05.webp",
         "char/junko/J-home-06.webp",
+        "char/junko/J-home-07.webp",
         "char/junko/J-winter-05.webp",
         "char/junko/J-winter-06.webp",
         "char/junko/J-winter-07.webp",
@@ -2195,8 +2196,8 @@
         "char/tomohisa/T-home-02.webp",
         "char/tomohisa/T-home-03.webp",
         "char/tomohisa/T-winter-01.webp",
-        "char/junko/J-home-07.webp",
-        "char/tomohisa/T-winter-02.webp"
+        "char/tomohisa/T-winter-02.webp",
+        "char/tomohisa/T-winter-03.webp"
       ]
     },
     {
@@ -2250,6 +2251,19 @@
       "credit": "치유·하이파이브·마법·유리 균열/울림·게이지 상승·전화 응답/잡음·숨·타격·클릭 및 PV 음향 — Web Audio로 코드 합성했습니다. 외부 녹음 파일을 사용하지 않았습니다.",
       "creditText": "치유·하이파이브·마법·유리 균열/울림·게이지 상승·전화 응답/잡음·숨·타격·클릭 및 PV 음향 — Web Audio로 코드 합성했습니다. 외부 녹음 파일을 사용하지 않았습니다.",
       "provider": "Web Audio 코드 합성"
+    },
+    {
+      "kind": "generated-art",
+      "key": "C145-C146-sayaka-healing",
+      "title": "사야카 치유 표정 스탠딩3장",
+      "credit": "사야카 치유 표정 — 생성형 AI를 활용해 C145 붉은 눈04·조용한 완고함01, C146 엷은 웃음02를 제작했습니다. 사용자 채택본을 S04 순찰의 지정 대목에 사용하며 기존 그림을 샷별로 내렸습니다.",
+      "creditText": "사야카 치유 표정 — 생성형 AI를 활용해 C145/C146에서 제작한 사용자 채택3장입니다.",
+      "provider": "생성형 AI",
+      "files": [
+        "char/sayaka/S-magic-08.webp",
+        "char/sayaka/S-magic-09.webp",
+        "char/sayaka/S-magic-10.webp"
+      ]
     }
   ]
 }
