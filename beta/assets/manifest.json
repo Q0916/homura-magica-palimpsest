@@ -285,7 +285,8 @@
       "J-winter-05": "char/junko/J-winter-05.webp",
       "J-winter-06": "char/junko/J-winter-06.webp",
       "J-winter-07": "char/junko/J-winter-07.webp",
-      "default": "char/junko/J-home-02.webp"
+      "default": "char/junko/J-home-02.webp",
+      "J-home-07": "char/junko/J-home-07.webp"
     },
     "토모히사": {
       "T-home-01": "char/tomohisa/T-home-01.webp",
@@ -293,7 +294,8 @@
       "T-home-03": "char/tomohisa/T-home-03.webp",
       "T-winter-01": "char/tomohisa/T-winter-01.webp",
       "T-home-01-plain": "char/tomohisa/T-home-01-plain.webp",
-      "default": "char/tomohisa/T-home-01.webp"
+      "default": "char/tomohisa/T-home-01.webp",
+      "T-winter-02": "char/tomohisa/T-winter-02.webp"
     },
     "타츠야": {
       "Ta-home-01": "char/tatsuya/Ta-home-01.webp",
@@ -587,7 +589,8 @@
       "J-winter-05": 0,
       "J-winter-06": 0,
       "J-winter-07": 0,
-      "default": 0
+      "default": 0,
+      "J-home-07": 0
     },
     "토모히사": {
       "T-home-01": 0,
@@ -595,7 +598,8 @@
       "T-home-03": 0,
       "T-winter-01": 0,
       "T-home-01-plain": 0,
-      "default": 0
+      "default": 0,
+      "T-winter-02": 0
     },
     "타츠야": {
       "Ta-home-01": 0,
@@ -1546,6 +1550,10 @@
       "default": {
         "gaze": "왼쪽",
         "canFlip": false
+      },
+      "J-home-07": {
+        "gaze": "왼쪽",
+        "canFlip": false
       }
     },
     "토모히사": {
@@ -1570,6 +1578,10 @@
         "canFlip": true
       },
       "default": {
+        "gaze": "정면",
+        "canFlip": true
+      },
+      "T-winter-02": {
         "gaze": "정면",
         "canFlip": true
       }
